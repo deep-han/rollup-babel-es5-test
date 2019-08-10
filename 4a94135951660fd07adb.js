@@ -1060,7 +1060,7 @@
                             NO_LOGIN: '1',
                             COOKIE_PATH: '/',
                             PUBLIC_PATH:
-                              'https://github.io/deep-han/rollup-babel-es5-test'
+                              'https://deep-han.github.io/rollup-babel-es5-test/'
                           }
                         }),
                         n.req && (e.context.req = n.req),

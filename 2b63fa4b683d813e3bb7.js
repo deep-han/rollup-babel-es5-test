@@ -187,7 +187,7 @@
     (d.o = function(object, e) {
       return Object.prototype.hasOwnProperty.call(object, e)
     }),
-    (d.p = 'https://github.io/deep-han/rollup-babel-es5-test/'),
+    (d.p = 'https://deep-han.github.io/rollup-babel-es5-test/'),
     (d.oe = function(e) {
       throw (console.error(e), e)
     })
